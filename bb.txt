@@ -6,11 +6,4 @@ luoyanpeng   哈哈
 
 我很好
 
-
-dfdfd
-<<<<<<< HEAD
-song
- henji 
-=======
->>>>>>> 00c600361b8c9f35cf65c976aa42322ecf690557
-手动阀
+大家好才是真的好
