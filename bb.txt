@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+luoyanpeng   哈哈    你好吗？
+=======
+luoyanpeng   哈哈
+>>>>>>> b69f7705ba5352049a1532e08ffd51776e09fa66
+
+我很好
